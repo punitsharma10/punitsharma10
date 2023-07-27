@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Punit Sharma</h1>
+<h1 align="center">Hi 👋, I'm Punit Kumar Sharma</h1>
 <!-- <h3 align="center">A passionate Full Stack Web Developer from India</h3> -->
     <h2 style="color: #333;"> A passionate Full Stack Web Developer from India. Welcome to my GitHub profile!</h2>
 
