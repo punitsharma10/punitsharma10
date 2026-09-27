@@ -8,7 +8,7 @@
 - 📫 Portfilio Link **https://punitsharma10.github.io/**
 - 🔭 I’m currently working on **DSA & Coding**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **any awesome projects.**
 
