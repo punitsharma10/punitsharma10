@@ -6,7 +6,7 @@
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="coding" />
 
 - 📫 Portfilio Link **https://punitsharma10.github.io/**
-- 🔭 I’m currently working on **DSA & Coding**
+- 🔭 I’m currently working on **Building a legal case-management CRM at OmnisAI (NestJS · TypeScript · PostgreSQL)**
 
 - 🌱 I’m currently learning **Docker**
 
