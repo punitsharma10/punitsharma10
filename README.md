@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punitsharma10&label=Profile%20views&color=0e75b6&style=flat" alt="punitsharma10" /> </p>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="coding" />
 
-- 📫 Portfilio Link **https://punitsharma10.github.io/**
+- 📫 Portfolio Link **https://punitsharma10.github.io/**
 - 🔭 I’m currently working on **Building a legal case-management CRM at OmnisAI (NestJS · TypeScript · PostgreSQL)**
 
 - 🌱 I’m currently learning **Docker**
